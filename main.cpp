@@ -51,7 +51,7 @@ bool init()
     
     SDL_SetHint(SDL_HINT_RENDER_SCALE_QUALITY, "linear");
 
-    gWindow = SDL_CreateWindow("Magic-Cat-at-Hogwarts, @Author: Nguyen Huu The aka Ca_Uop_Muoi", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
+    gWindow = SDL_CreateWindow("Minerva - Tann", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
     if (gWindow == NULL)
         return false;
     
