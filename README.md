@@ -19,7 +19,7 @@
 - Skill 1 (Expecto Patronum): Nhấn giữ Ctrl trong 2.5s sẽ -1 máu toán quái đang hiển thị
 - Skill 2 (Wingardium Leviosa): Nhấn giữ Alt trong 1.3s sẽ đẩy quái ra xa
 ## Cách tính điểm
--Tỉ lệ thuận với khoảng cách từ Main đến quái, nhân với số quái tiêu diệt cùng 1 lúc
+- Tỉ lệ thuận với khoảng cách từ Main đến quái, nhân với số quái tiêu diệt cùng 1 lúc
 # Giao diện kết thúc Game
 ## Giao diện Gameover
 ![image](https://github.com/user-attachments/assets/2364dd8a-3bb4-430c-9fac-4d52b300e1c1)
